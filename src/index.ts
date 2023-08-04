@@ -7,7 +7,7 @@ import { PuppeteerScreenRecorder } from 'puppeteer-screen-recorder';
   const page = await browser.newPage();
   const recorder = new PuppeteerScreenRecorder(page);
   // Navigate the page to a URL
-  await page.goto('https://webflow.com/interactions-animations');
+  await page.goto('https://plink-rebuild.webflow.io/');
 
   // Set screen size
   await page.setViewport({width: 1080, height: 768});

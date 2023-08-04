@@ -7,3 +7,9 @@ This process of converting a website based presentation into a video can be extr
 Additionally, this fits well with automation and programatically generating videos.
 
 By following this guide, you’ll be able to take any HTML, CSS and JavaScript based website you might have created, whether it uses other libraries for fancy animations or not, and record automatically visiting and interacting with the website.
+
+
+```
+npm install
+npm run start:dev
+```
