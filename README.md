@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/nenuadrian/html-css-js-to-video-converter/actions/workflows/node.js.yml/badge.svg)](https://github.com/nenuadrian/html-css-js-to-video-converter/actions/workflows/node.js.yml)
+
 # HTML, CSS, JS to Video MP4 Converter
 
 Read all about it here https://adriannenu.medium.com/converting-html-css-and-javascript-animated-site-to-video-using-puppeteer-screen-recording-fd2f377d5b2c
